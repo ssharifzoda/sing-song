@@ -1,0 +1,10 @@
+server:
+  port: "5005"
+
+db:
+  port: 5432
+  host: "localhost"
+  dbName: "postgres"
+  username: "postgres"
+
+
